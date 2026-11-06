@@ -1,8 +1,6 @@
 /* =====================================================
    JavaScript - New Practice Batch (40 Tasks) with Answers
-   Use: link this file in an HTML page with
-   <script src="practice_batch.js"></script> (inside <body>)
-   Open the browser console (F12) to see console output.
+   
    ===================================================== */
 
 
