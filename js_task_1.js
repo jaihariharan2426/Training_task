@@ -1,30 +1,30 @@
 /* ================= PART 1: var, let, const ================= */
 
 // 1. Create a variable named employeeName using var and assign your name.
-var employeeName = "Arun";
+var employeeName = "Hari";
 
 // 2. Create a variable named employeeAge using let and assign your age.
-let employeeAge = 25;
+let employeeAge = 23;
 
 // 3. Create a variable named company using const and assign "Stackly".
 const company = "Stackly";
 
 // 4. Declare a variable salary using var and change its value twice.
-var salary = 20000;
-salary = 25000;   // first change
-salary = 30000;   // second change
+var salary = 42000;
+salary = 15000;   // first change
+salary = 42000;   // second change
 
 // 5. Declare a variable city using let and reinitialize it with another city.
-let city = "Chennai";
-city = "Mumbai";  // reinitialized (re-assigned)
+let city = "Salem";
+city = "Chennai";  // reinitialized (re-assigned)
 
 // 6. Declare a variable course using var and redeclare it.
 var course = "HTML";
 var course = "JavaScript";  // redeclaring is allowed with var
 
 // 7. Try redeclaring a variable named student using let.
-let student = "Ravi";
-// let student = "Kumar";
+let student = "Hari";
+// let student = "Hariharan";
 // ERROR: SyntaxError: Identifier 'student' has already been declared
 // (let does NOT allow redeclaration in the same scope - commented out so the file keeps running)
 
@@ -48,22 +48,22 @@ console.log(valueConst);
 /* ================= PART 2: Printing Statements ================= */
 
 // 11. Print your full name using console.log().
-console.log("Arun Kumar");
+console.log("Jaihariharan");
 
 // 12. Print your date of birth using console.log().
-console.log("Date of Birth: 15-08-2000");
+console.log("Date of Birth: 24-08-2003");
 
 // 13. Print your company name using document.writeln().
 document.writeln("Company Name: Stackly");
 
 // 14. Print your designation using console.warn().
-console.warn("Designation: Trainee Developer");
+console.warn("Designation: Java Full Stack Developer");
 
 // 15. Print your department using console.error().
-console.error("Department: Web Development");
+console.error("Department: Developer");
 
 // 16. Print your favourite food using console.log().
-console.log("Favourite Food: Biryani");
+console.log("Favourite Food: Dhal rice");
 
 // 17. Create a variable productPrice and print its value.
 let productPrice = 1500;
@@ -137,9 +137,9 @@ console.warn("Low Battery");
 console.error("Invalid Username");
 
 // 34. Print your name, age, and city using separate console.log() statements.
-console.log("Name: Arun");
-console.log("Age: 25");
-console.log("City: Chennai");
+console.log("Name: Hari");
+console.log("Age: 23");
+console.log("City: Salem");
 
 // 35. Use console.clear() and print "Console Cleared".
 console.clear();   // clears everything printed above
@@ -150,7 +150,7 @@ var trainingStatus = "In Progress";
 console.log(trainingStatus);
 
 // 37. Create a variable batchNumber and print it using console.warn().
-let batchNumber = 12;
+let batchNumber = 42;
 console.warn(batchNumber);
 
 // 38. Create a variable errorMessage and print it using console.error().
@@ -163,7 +163,7 @@ console.warn("This is a warning message");
 console.error("This is an error message");
 
 // 40. Create four variables using var, let, and const, then print their values using console methods.
-var trainerName = "Suresh";
+var trainerName = "Naveen kumar";
 let batchTime = "10:00 AM";
 const duration = "3 Months";
 var location = "Chennai";
