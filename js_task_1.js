@@ -1,9 +1,3 @@
-/* =====================================================
-   JavaScript - New Practice Batch (40 Tasks) with Answers
-   
-   ===================================================== */
-
-
 /* ================= PART 1: var, let, const ================= */
 
 // 1. Create a variable named employeeName using var and assign your name.
